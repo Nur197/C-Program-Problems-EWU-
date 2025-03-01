@@ -53,3 +53,17 @@ int main()
     return 0;
 }
 
+PROBLEM 05 = 
+
+#include<stdio.h>
+int main()
+{
+    printf("¤¤¤¤¤¤¤\n");
+    printf("¤     ¤\n");
+    printf("¤     ¤\n");
+    printf("¤     ¤\n");
+    printf("¤     ¤\n");
+    printf("¤¤¤¤¤¤¤\n");
+    return 0;
+}
+
