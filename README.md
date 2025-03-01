@@ -38,3 +38,18 @@ int main()
     printf("%d / %d = %d",a,b,rim);
     return 0;
 }
+
+PROBLEM 10 - 
+
+#include<stdio.h>
+int main()
+{
+    printf("Hello everyone,Today we will learn how to code multiplication on C Programming,\nLet's get started.\n");
+    int a,b,mult ;
+    a = 50;
+    b = 20;
+    mult = a*b;
+    printf("%d *% d = %d",a,b,mult);
+    return 0;
+}
+
